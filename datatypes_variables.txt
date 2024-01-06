@@ -1,6 +1,29 @@
-Data Types & Variables
+Data Types
 
+int Data Type
 int a = 5;
 a is a variable in memory of int type and has value of 5 in.
 An int variable generally takes 4 bytes in memory.
+
+char Data Type
+char ch = 'a';
+char is the type to represent characters.
+Characters always use '' and they generally take 1 byte in memory.
+
+bool Data Type
+bool b = true;
+Bools have values of either true or false.
+They take 1 byte in memory.
+And true can also be represented by 1, and false by 0.
+
+float Data Type
+float f = 1.2;
+Floats are used when floating point numbers are in use.
+They take generally 4 bytes in memory.
+Usually provide about 7 decimal digits of precision.
+
+double Data Type
+double d = 1.23;
+Doubles take generally 8 bytes in memory.
+Usually provide about 15 decimal digits of precision.
 
