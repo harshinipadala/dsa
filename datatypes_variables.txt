@@ -1,0 +1,6 @@
+Data Types & Variables
+
+int a = 5;
+a is a variable in memory of int type and has value of 5 in.
+An int variable generally takes 4 bytes in memory.
+
