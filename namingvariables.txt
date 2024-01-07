@@ -1,0 +1,8 @@
+Variable Names
+
+abc, ABC, A1, A_1 are all valid options. However
+numbers can't be used to start a variable name.
+
+Also don't repeat variable names for multiple variables.
+
+

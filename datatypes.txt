@@ -1,9 +1,11 @@
-Data Types
+Data Types & Operators
+
 
 int Data Type
 int a = 5;
 a is a variable in memory of int type and has value of 5 in.
 An int variable generally takes 4 bytes in memory.
+sizeof(a) will give the size (# of bytes) of the integer.
 
 char Data Type
 char ch = 'a';
@@ -26,4 +28,20 @@ double Data Type
 double d = 1.23;
 Doubles take generally 8 bytes in memory.
 Usually provide about 15 decimal digits of precision.
+
+Type Casting
+int a = 'a';
+char ch = 98;
+cout << a << ch << endl; 
+This will output 97 and b.
+
+Operators
+int a = 2/5;
+The answer to 2/5 will return 0 because the data type of the answer is int as well.
+When using the divide operator, be wary of the data type of the answer.
+
+Relational Operators: =, <, >, <=, >=, !=
+Logical Operators (check multiple conditions): &&, ||, !
+
+
 
